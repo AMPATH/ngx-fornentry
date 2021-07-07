@@ -4,6 +4,8 @@
 
 This a formentry module for use with AMPATH's medical records system, [AMPATH POC](https://github.com/ampath/ng2-amrs).
 
+You can find the documentation for AMPATH forms (conceptually, this library as well as the [Form builder](https://github.com/ampath/ngx-openmrs-formbuilder)) here - [AMPATH Forms docs](https://ampath-forms.vercel.app).
+
 # Development
 
 ## Build the library by running:
